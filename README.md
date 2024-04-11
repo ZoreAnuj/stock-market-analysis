@@ -5,12 +5,21 @@ Stock price prediction with Time Series Prediction. The data is from the Huge St
 In this notebook will be performed:
 
 ### Importing Libraries
-Preprocessing
-Tesla Stock Market Analyis
+
+- Python 3.5
+- TuShare 0.7.4
+- Pandas 0.19.2
+- Keras 1.2.2
+- Numpy 1.12.0
+- scikit-learn 0.18.1
+- TensorFlow 1.0 (GPU version recommended)
+  
+## Preprocessing
+### Tesla Stock Market Analyis
 <img width="310" alt="image" src="https://github.com/ZoreAnuj/stock-market-analysis/assets/95142805/c2297239-afcc-4eb6-908c-75bec9cf4384">
 
 
-Tesla ARIMA (AutoRegressive Integrated Moving Average) Time Series Prediction
+### Tesla ARIMA (AutoRegressive Integrated Moving Average) Time Series Prediction
 <img width="303" alt="image" src="https://github.com/ZoreAnuj/stock-market-analysis/assets/95142805/2559ebd2-542c-43f1-8a9e-87eef987a099">
 
 <img width="509" alt="image" src="https://github.com/ZoreAnuj/stock-market-analysis/assets/95142805/b6ff077b-d41b-46cc-ad89-3a6da647e942">
@@ -22,7 +31,7 @@ Tesla ARIMA (AutoRegressive Integrated Moving Average) Time Series Prediction
 <img width="561" alt="image" src="https://github.com/ZoreAnuj/stock-market-analysis/assets/95142805/78db5225-f0af-41b9-8497-72a6ca6d01b3">
 
 
-## Microsoft Stock Market Analyis
+### Microsoft Stock Market Analyis
 
 <img width="307" alt="image" src="https://github.com/ZoreAnuj/stock-market-analysis/assets/95142805/9d308a6f-6495-4a01-b0ae-4dc3605b8272">
 
